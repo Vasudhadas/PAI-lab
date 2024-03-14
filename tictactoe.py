@@ -45,3 +45,4 @@ def play_game():
         else:
             current_player = "O" if current_player == "X" else "X"
 play_game()
+
